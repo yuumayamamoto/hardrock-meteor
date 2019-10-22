@@ -4,7 +4,7 @@ import { Image } from 'semantic-ui-react';
 export default class Middle extends React.Component {
   render() {
     return (
-        <Image fluid src="http://www.hardrock.com/cafes/honolulu/files/2384/Honolulu_Entrance.jpg" />
+        <Image fluid src="https://www.hardrockcafe.com/location/honolulu/files/5390/9967882_ImageMediumWidth.jpeg" />
     );
   }
 }

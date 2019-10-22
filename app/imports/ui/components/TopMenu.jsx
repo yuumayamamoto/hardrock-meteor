@@ -6,8 +6,7 @@ export default class TopMenu extends React.Component {
     const itemStyle = { color: '#ccc', fontSize: '22px' };
     return (
         <Menu className="topmenu">
-          <Menu.Item><Image src="http://courses.ics.hawaii.edu/ics314s18/
-          morea/ui-frameworks/hard-rock-logo.png"/></Menu.Item>
+          <Menu.Item><Image src="http://courses.ics.hawaii.edu/ics314s18/morea/ui-frameworks/hard-rock-logo.png"/></Menu.Item>
           <Menu.Item style={itemStyle} position="right">CAFES</Menu.Item>
           <Menu.Item style={itemStyle}>HOTELS</Menu.Item>
           <Menu.Item style={itemStyle}>CASINOS</Menu.Item>
